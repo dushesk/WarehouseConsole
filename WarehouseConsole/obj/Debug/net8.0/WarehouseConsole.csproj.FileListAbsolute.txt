@@ -1,0 +1,15 @@
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\bin\Debug\net8.0\WarehouseConsole.exe
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\bin\Debug\net8.0\WarehouseConsole.deps.json
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\bin\Debug\net8.0\WarehouseConsole.runtimeconfig.json
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\bin\Debug\net8.0\WarehouseConsole.dll
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\bin\Debug\net8.0\WarehouseConsole.pdb
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\WarehouseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\WarehouseConsole.AssemblyInfoInputs.cache
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\WarehouseConsole.AssemblyInfo.cs
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\WarehouseConsole.csproj.CoreCompileInputs.cache
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\WarehouseConsole.sourcelink.json
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\WarehouseConsole.dll
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\refint\WarehouseConsole.dll
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\WarehouseConsole.pdb
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\WarehouseConsole.genruntimeconfig.cache
+C:\Users\drobash\source\repos\WarehouseConsole\WarehouseConsole\obj\Debug\net8.0\ref\WarehouseConsole.dll

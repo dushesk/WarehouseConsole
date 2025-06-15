@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W0a/188gjcc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drobash\\source\\repos\\WarehouseConsole\\WarehouseConsole\\WarehouseConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drobash\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
+    "C:\\Users\\drobash\\.nuget\\packages\\coverlet.msbuild\\6.0.4\\coverlet.msbuild.6.0.4.nupkg.sha512",
+    "C:\\Users\\drobash\\.nuget\\packages\\reportgenerator\\5.4.7\\reportgenerator.5.4.7.nupkg.sha512"
+  ],
+  "logs": []
+}
